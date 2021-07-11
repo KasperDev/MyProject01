@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.26",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "DarkerNodes",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4b3441f0228a40ec9ca986489a5bd682"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:62a5950f3c3bd535aff043f5499fed37e42a8051c5b7c5543f4bcf4be1be2e68
+size 276
